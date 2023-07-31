@@ -1,26 +1,25 @@
-# Tela de Login Responsiva
-<p>Tela de login responsiva no tema dark usando HTML5 e CSS3</p>
+# Login Responsive Page
+<p>A responsive login Page using HTML5 and CSS3</p>
 
 ## Sumário
 <!--ts-->
- * [Status](#sobre)
- * [Tecnologias utilizadas](#tecnologias-utilizadas)
- * [Versão Desktop](#versao-desktop)
- * [Versão Mobile](#versao-mobile)
+ * [Technologies used](#Technologies-used)
+ * [Desktop View](#Desktop View)
+ * [Mobile View](#Mobile View)
 <!--te-->
 ## Status
 <p>Desenvolvimento em progresso🔧</p>
 
-## Tecnologias Utilizadas
+## Technologies used
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
-<h2>Versão Desktop</h2>
+<h2>Desktop View</h2>
 <div align="center">
-  <img alt="Screenshot da página de login na versão desktop" title="#versao-desktop" src="./screenshots/desktop.png" />
+  <img alt="Screenshot" title="#Desktop View" src="./screenshots/desktop.png" />
 </div>
-<h2>Versão Mobile</h2>
+<h2Mobile View</h2>
 <div align="center">
-  <img alt="Screenshot da página de login na versão mobile" title="#versao-mobile" id="versao-mobile" src="./screenshots/mobile.png" />
+  <img alt="Screenshot" title="#versao-mobile" id="Mobile View" src="./screenshots/mobile.png" />
 </div>

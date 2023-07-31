@@ -1,14 +1,12 @@
 # Login Responsive Page
 <p>A responsive login Page using HTML5 and CSS3</p>
 
-## Sumário
+## Summary
 <!--ts-->
  * [Technologies used](#Technologies-used)
- * [Desktop View](#Desktop View)
- * [Mobile View](#Mobile View)
+ * [Desktop View](#Desktop-View)
+ * [Mobile View](#Mobile-View)
 <!--te-->
-## Status
-<p>Desenvolvimento em progresso🔧</p>
 
 ## Technologies used
 <ul>
